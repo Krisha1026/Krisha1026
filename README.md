@@ -61,12 +61,9 @@ I enjoy crafting user-friendly web interfaces and learning new technologies to s
 </p>
 
   
-<br>
 <p align="center">
-  <a href="https://github.com/Krisha1026">
-     <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/? 
-      username=Krisha1026&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/? 
+   username=Krisha1026&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 </p>
 
 ---
