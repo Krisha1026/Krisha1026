@@ -64,7 +64,14 @@ I enjoy crafting user-friendly web interfaces and learning new technologies to s
 
   
 <br>
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Krisha1026&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+<p align="center">
+  
+  <a>
+     <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/? 
+      username=Krisha1026&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  </a>
+  
+ 
   
 </p>
 
