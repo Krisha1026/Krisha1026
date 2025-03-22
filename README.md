@@ -54,11 +54,14 @@ I enjoy crafting user-friendly web interfaces and learning new technologies to s
 
 ## 📈 GitHub Stats
 
+## 📈 GitHub Stats
+
 <p align="center">
   <img height="150" width="150" src="https://github.com/Krisha1026/Krisha1026/blob/main/left.png">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krisha1026&show_icons=true&theme=radical" alt="GitHub Stats" width="50%" 
+  <img src="https://github-readme-stats.vercel.app/api?username=Krisha1026&show_icons=true&theme=radical" alt="GitHub Stats" width="50%">
   <img height="150" width="150" src="https://github.com/Krisha1026/Krisha1026/blob/main/right.png">
-  />
+</p>
+
   
 <br>
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Krisha1026&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
