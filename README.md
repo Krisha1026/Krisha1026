@@ -1,8 +1,8 @@
 <div align="center">
   <h1>👩‍💻 Krishanthini Sivakumar</h1>
   <p>
-    <b>Aspiring Frontend Developer</b>  
-    <br>Software Engineering Undergraduate | Cardiff Metropolitan University 🎓  
+    <b>Software Engineering Undergraduate</b>  
+    <br>Cardiff Metropolitan University 🎓   
   </p>
 </div>
 
@@ -14,13 +14,14 @@
 
 ## 🌟 About Me
 
-Hi there! I'm **Krishanthini**, a passionate Software Engineering undergraduate with a focus on **Frontend Development**.  
+Hi there! I'm **Krishanthini**, a passionate Software Engineering undergraduate with a keen interest in software development and problem-solving.  
 I enjoy crafting user-friendly web interfaces and learning new technologies to solve real-world problems.  
 
 - 🎓 **Student at Cardiff Metropolitan University**  
+- 💻 Enthusiastic about building efficient, scalable software solutions  
 - 💻 Enthusiastic about crafting beautiful and functional web interfaces  
-- 🌱 Currently honing my skills in **Frontend and Full-Stack Development** 
-- 💻 I believe in the power of **beautiful code** and **intuitive design**  
+- 🌱 Continuously expanding my knowledge in modern software development practices  
+- 💻 I believe in the power of **beautiful code** and **intuitive design** 
 
 ---
 
